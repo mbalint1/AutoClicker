@@ -1,0 +1,5 @@
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\bin\Release\FifaAutoClicker.exe.config
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\bin\Release\FifaAutoClicker.exe
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\bin\Release\FifaAutoClicker.pdb
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\obj\Release\FifaAutoClicker.exe
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\obj\Release\FifaAutoClicker.pdb

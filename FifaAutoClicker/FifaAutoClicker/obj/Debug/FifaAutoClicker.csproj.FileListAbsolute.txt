@@ -1,0 +1,6 @@
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\bin\Debug\FifaAutoClicker.exe.config
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\bin\Debug\FifaAutoClicker.exe
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\bin\Debug\FifaAutoClicker.pdb
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\obj\Debug\FifaAutoClicker.exe
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\obj\Debug\FifaAutoClicker.pdb
+D:\.NET Apps\Fifa Auto Clicker\FifaAutoClicker\FifaAutoClicker\obj\Debug\FifaAutoClicker.csprojResolveAssemblyReference.cache
